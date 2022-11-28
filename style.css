@@ -8,6 +8,11 @@ body{
     background-image: url('./img/pattern.png');
 }
 
+.logo{
+    width: 20%;
+    margin-bottom: 0;
+}
+
 main{
     margin: 8px;
 }

@@ -42,3 +42,26 @@ thead{
 .white{
     background-color: white;
 }
+
+footer{
+    margin: 8px;
+}
+
+.text{
+    color: rgba(0, 0, 0, 0.397)
+}
+
+.img{
+    color: white;
+    height: 200px;
+}
+
+.img.uno{
+    background-image: url('./img/monitor.jpg');
+    background-repeat: no-repeat;
+}
+
+.img.due{
+    background-image: url('./img/graph.jpg');
+    background-repeat: no-repeat;
+}
